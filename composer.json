@@ -6,7 +6,7 @@
         "ibexa-dxp"
     ],
     "require": {
-        "php": " >=8.3",
+        "php": ">=8.3",
         "ibexa/core": "~5.0.x-dev",
         "symfony/config": "^5.4",
         "symfony/dependency-injection": "^5.4",
